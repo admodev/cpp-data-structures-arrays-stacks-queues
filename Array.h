@@ -18,5 +18,5 @@ public:
 
 	bool LeerValor(int iElemento, int& iValor) const;
 
-	void Limpiar(iValor);
+	void Limpiar(int iValor);
 };
